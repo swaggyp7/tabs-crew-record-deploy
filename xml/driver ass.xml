@@ -1,0 +1,11 @@
+<prefab version="1.7.0">
+	<group name="instance=MOD/xml/driver ass.xml" pos="0.0 0.2 -1.4" rot="0.0 90.0 0.0">
+		<group pos="-0.0 -0.2 0.1" rot="0.0 180.0 0.0">
+			<body tags="tabscrew role=driver variant=floor" pos="0.0 0.2 0.1" rot="0.0 -180.0 0.0" dynamic="true">
+				<vox pos="-0.0 -0.2 0.2" file="MOD/vox/crew.vox" object="body 1shape"/>
+				<joint pos="-0.0 0.0 0.0" rot="0.0 -90.0 0.0" type="hinge" rotstrength="300" limits="0"/>
+			</body>
+		</group>
+	</group>
+</prefab>
+

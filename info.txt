@@ -1,0 +1,5 @@
+name = TABS Crew: Record & Deploy
+author = Andrew
+description = Record a crew layout once (R), deploy the full crew with one key (Y). Built on Okidoki's TABS Crew.
+tags = Tool, Global
+preview = preview.jpg

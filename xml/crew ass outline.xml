@@ -1,0 +1,9 @@
+<prefab version="1.7.0">
+	<group name="instance=MOD/xml/crew ass outline.xml" pos="-0.7 0.2 0.3" rot="0.0 0.0 0.0">
+		<body tags="tabscrew role=crew" pos="0.0 -0.0 0.0" rot="0.0 -90.0 0.0" dynamic="true">
+			<vox pos="-0.0 -0.2 0.2" file="MOD/vox/crew.vox" object="outline"/>
+			<joint pos="-0.0 0.0 0.0" rot="0.0 -90.0 0.0" type="hinge" rotstrength="300" limits="0"/>
+		</body>
+	</group>
+</prefab>
+
